@@ -192,7 +192,7 @@ header img.logo {
 }
 
 #text {
-    margin-right: 15% 25%;
+    margin: 5% 15%;
 }
 
 header nav a {
@@ -202,14 +202,6 @@ header nav a {
 .company.logo {
     display: flex;
     justify-content: flex-end;
-    margin: 0%;
-}
-
-.company.logo #text {
-    position: absolute;
-    text-align: center;
-    height: 30%;
-    width: 30%;
     margin: 0%;
 }
 
@@ -228,7 +220,7 @@ button {
     color: black;
     background: white;
     border: 1px solid black;
-    margin: 5% 5%;
+    margin: 5% 35%;
 }
 
 button:hover {
